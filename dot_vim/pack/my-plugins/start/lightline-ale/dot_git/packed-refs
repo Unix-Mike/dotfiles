@@ -1,0 +1,3 @@
+# pack-refs with: peeled fully-peeled sorted 
+94d8732a97366b143162610c8e01445b6600337e refs/remotes/origin/do-not-rely-on-is-checking-buffer
+a861f691ac7e40b1b359bc7a147078fa1e0570ce refs/remotes/origin/master
